@@ -1,0 +1,48 @@
+===== 训练日志汇总 =====
+训练总轮数: 20 Epochs
+
+Loss变化记录:
+Epoch 1: Loss = 1.3889
+Epoch 2: Loss = 0.9516
+Epoch 3: Loss = 0.7840
+Epoch 4: Loss = 0.6753
+Epoch 5: Loss = 0.5981
+Epoch 6: Loss = 0.5194
+Epoch 7: Loss = 0.4679
+Epoch 8: Loss = 0.4070
+Epoch 9: Loss = 0.3669
+Epoch 10: Loss = 0.3231
+Epoch 11: Loss = 0.2933
+Epoch 12: Loss = 0.2692
+Epoch 13: Loss = 0.2428
+Epoch 14: Loss = 0.2331
+Epoch 15: Loss = 0.2163
+Epoch 16: Loss = 0.2010
+Epoch 17: Loss = 0.1901
+Epoch 18: Loss = 0.1912
+Epoch 19: Loss = 0.1802
+Epoch 20: Loss = 0.1679
+
+Test Accuracy记录:
+Epoch 1: Accuracy = 63.06%
+Epoch 2: Accuracy = 70.61%
+Epoch 3: Accuracy = 73.58%
+Epoch 4: Accuracy = 74.79%
+Epoch 5: Accuracy = 76.18%
+Epoch 6: Accuracy = 76.41%
+Epoch 7: Accuracy = 77.54%
+Epoch 8: Accuracy = 76.36%
+Epoch 9: Accuracy = 76.14%
+Epoch 10: Accuracy = 77.05%
+Epoch 11: Accuracy = 77.26%
+Epoch 12: Accuracy = 76.67%
+Epoch 13: Accuracy = 76.66%
+Epoch 14: Accuracy = 77.01%
+Epoch 15: Accuracy = 76.72%
+Epoch 16: Accuracy = 76.82%
+Epoch 17: Accuracy = 75.93%
+Epoch 18: Accuracy = 77.59%
+Epoch 19: Accuracy = 77.04%
+Epoch 20: Accuracy = 76.88%
+
+最终测试准确率: 76.88%
